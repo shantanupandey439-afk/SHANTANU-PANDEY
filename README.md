@@ -1,2 +1,3 @@
 # SHANTANU-PANDEY
-Thish is my first Repository. 
+Thish is my first Repository.
+Author- shantanu pandey 
